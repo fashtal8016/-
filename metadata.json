@@ -1,0 +1,6 @@
+{
+  "name": "تعمیرگاه میرغفاری",
+  "description": "اپلیکیشن مدیریت کسب‌وکارهای خدماتی و تعمیرات لوازم خانگی میرغفاری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
